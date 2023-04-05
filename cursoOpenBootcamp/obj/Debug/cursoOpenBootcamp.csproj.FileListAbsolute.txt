@@ -1,0 +1,8 @@
+C:\Users\brand\OneDrive\Escritorio\Proyecto E-Comerce\cursoOpenBootcamp\cursoOpenBootcamp\bin\Debug\cursoOpenBootcamp.exe.config
+C:\Users\brand\OneDrive\Escritorio\Proyecto E-Comerce\cursoOpenBootcamp\cursoOpenBootcamp\bin\Debug\cursoOpenBootcamp.exe
+C:\Users\brand\OneDrive\Escritorio\Proyecto E-Comerce\cursoOpenBootcamp\cursoOpenBootcamp\bin\Debug\cursoOpenBootcamp.pdb
+C:\Users\brand\OneDrive\Escritorio\Proyecto E-Comerce\cursoOpenBootcamp\cursoOpenBootcamp\obj\Debug\cursoOpenBootcamp.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Escritorio\Proyecto E-Comerce\cursoOpenBootcamp\cursoOpenBootcamp\obj\Debug\cursoOpenBootcamp.csproj.SuggestedBindingRedirects.cache
+C:\Users\brand\OneDrive\Escritorio\Proyecto E-Comerce\cursoOpenBootcamp\cursoOpenBootcamp\obj\Debug\cursoOpenBootcamp.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Escritorio\Proyecto E-Comerce\cursoOpenBootcamp\cursoOpenBootcamp\obj\Debug\cursoOpenBootcamp.exe
+C:\Users\brand\OneDrive\Escritorio\Proyecto E-Comerce\cursoOpenBootcamp\cursoOpenBootcamp\obj\Debug\cursoOpenBootcamp.pdb
